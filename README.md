@@ -1,14 +1,39 @@
 # UFOs
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, I will add table filters for the city, state, country, and shape.
 
+## Background:
+
+Data is a data journalist who ois at a point in her career whwere she has the freedom to choose the topic she wants to write about. when she is given the opportunity to write 
+about her hometown McMinnvillem Oregon, she jumps on the opportunity for a couple of reasons. First, its an opportunity to visit the memories and people back home, secondly its the fun part, is the topic, UFOs. McMinnville is famous for UFO sightings and even has an annual gathering for UFO enthusiasts. its a topic that DAna has been interested in since childhood, when she first heard about Farmer Trent's sighting in 1950. For this assignment the only thing she needs to go on so far is a JAvascript file filled with sighting information. Dana is aware of Javascript's visual functionality, its a tried and tested language after all.
+
+
+![Capture](https://user-images.githubusercontent.com/23488019/149443901-05a27517-1e23-4b20-90fe-2037e9c344ab.PNG)
+
+Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape. Her plan is to first use JS to display the datas of the table. Because there is so much data, sifting through without any adjustments would be a big challenge. JS provides a way to manipulate data by adding filters. Its tricky to add more than 1 filter but Dana is upto the challenge. Additionally, since I will be posting her article online, Dana wants to put everything together in a tidy HTML page. Her article, the table of data to support the findings and easy to use filters to fine tune the results. Dana is looking forward to see her ideas come alive. Hence I will be helping her with her goals.
+
 
 ## Goal :
 
 Dana's goal is to create an interactive webpage that allows readers to parse the data around UFO sightings. So, she essentially needs to build two things: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript). Dana wants to storyboard her website to have an idea of what her readers will see when they view the final product. Storyboarding is incredibly useful in determining the layout of a webpage.
 
+## What I am Creating:
+
+This new assignment consists of one technical analysis deliverable and a written report. 
+
+- Deliverable 1: Filter UFO sightings on multiple criteria
+- Deliverable 2: A written report on the UFO analysis (README.md)
+
 ## Tools Used :
-  1. VS Code
-  2. 
+  1. JavaScript - It is a well-established coding language that was designed to enhance HTML. It's the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.
+
+2. HTML - 
+
+3. Bootstrap - 
+
+
+4. VS Code -
+
+
 ## Procedure :
 
 ### 1. Storyboarding :
@@ -32,3 +57,21 @@ This step is key for a couple of reasons. First, knowing how we want the webpage
 ### 2. Aligning the Code:
 
 When we align our code, we're putting our plans into action, such as when we start transitioning our storyboard into a webpage. We'll start by building our components. The first one will be the table we generate with JavaScript. In VS Code, the first thing we're going to do is import the data. Then, declare a variable, tableData, using const. Next, we need to point our data to our HTML page. Specifically, we need to tell JavaScript what type of element the data will be displayed in. We already know that the data will be displayed in a table, so in our code editor we'll reference the tbody HTML tag using D3. D3 is a JavaScript library that produces sophisticated and highly dynamic graphics in an HTML webpage. It is often used by data professionals to create dashboards, or a collection of visual data (such as graphs and maps), for presentation.
+
+
+
+### File Structure :
+
+Building a page that contains JavaScript will require Dana to link additional JavaScript files to the index.html file that she'll be working on later. This means keeping track of multiple things at once: an HTML file, JavaScript files, images (for customizing the webpage) and a CSS style sheet. Therefore, it's a good idea for Dana to establish a solid folder structure now instead of when she's elbow deep in creating her JavaScript functions.
+Before we get too far along with our coding, we need to set up a file organization system for our repo. The end result of this project will be an HTML page or application, so we need to establish the proper folder structure accordingly. At a high level, here's what we'll do:
+
+- 1. Create the index.html file.
+- 2. Create a subfolder to hold the CSS file (style.css).
+- 3. Create a subfolder for images.
+- 4. Create a subfolder to hold JavaScript.
+
+First, in the repo folder we established earlier ("UFOs"), create the index.html file. This file is the window to our work: the table and Dana's article summary (along with titles and filters) will all be displayed through this file. 
+
+Next, create a subfolder in the repo folder named "static." This static folder will hold our static CSS file; this only means that it isn't being moved or altered externally. In VS code, right-click the menu and select "New Folder," and then name it "static."
+
+Inside the static folder, create another subfolder named "css" to hold the style.css file. We'll customize our webpage using the style.css sheet.
