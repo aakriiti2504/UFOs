@@ -7,7 +7,7 @@ Data is a data journalist who ois at a point in her career whwere she has the fr
 about her hometown McMinnvillem Oregon, she jumps on the opportunity for a couple of reasons. First, its an opportunity to visit the memories and people back home, secondly its the fun part, is the topic, UFOs. McMinnville is famous for UFO sightings and even has an annual gathering for UFO enthusiasts. its a topic that DAna has been interested in since childhood, when she first heard about Farmer Trent's sighting in 1950. For this assignment the only thing she needs to go on so far is a JAvascript file filled with sighting information. Dana is aware of Javascript's visual functionality, its a tried and tested language after all.
 
 
-![Capture](https://user-images.githubusercontent.com/23488019/149443901-05a27517-1e23-4b20-90fe-2037e9c344ab.PNG)
+                        ![Capture](https://user-images.githubusercontent.com/23488019/149443901-05a27517-1e23-4b20-90fe-2037e9c344ab.PNG)
 
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape. Her plan is to first use JS to display the datas of the table. Because there is so much data, sifting through without any adjustments would be a big challenge. JS provides a way to manipulate data by adding filters. Its tricky to add more than 1 filter but Dana is upto the challenge. Additionally, since I will be posting her article online, Dana wants to put everything together in a tidy HTML page. Her article, the table of data to support the findings and easy to use filters to fine tune the results. Dana is looking forward to see her ideas come alive. Hence I will be helping her with her goals.
 
@@ -38,15 +38,15 @@ This new assignment consists of one technical analysis deliverable and a written
 
 ### 1. Storyboarding :
 
-A storyboard serves as a kind of blueprint for your site and helps with the transition from idea to finished product. Think of it as a map of the webpage.
+Dana also has a solid idea of how she wants her webpage to look, but it's easy to get lost in the details of building a webpage without a visual reference. A visual reference such as a storyboard will help Dana outline all of the elements she wants included, such as the article title, a summary, and the table itself. Then, when she begins creating JavaScript code to include the table, she'll know exactly which HTML components she'll be connecting to her table. A storyboard serves as a kind of blueprint for your site and helps with the transition from idea to finished product. It is like  a map of the webpage.
 
-An unordered components of a webpage:
+              ##### An unordered components of a webpage:
 
 ![data-11-2-4-1-unordered-components-of-a-webpage](https://user-images.githubusercontent.com/23488019/148822033-f6348ed4-df0d-410f-be7d-bfecfc6d85ed.png)
 
 
 
-A storyboard of the website with components neatly organized:
+          ##### A storyboard of the website with components neatly organized:
 
 ![data-11-2-4-2-storyboard-of-the-website-with-components-neatly-organized](https://user-images.githubusercontent.com/23488019/148822037-c8378b65-2191-4561-bf11-8e8675db2c67.png)
 
