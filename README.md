@@ -34,7 +34,7 @@ This new assignment consists of one technical analysis deliverable and a written
 4. VS Code -
 
 
-5. Data Driven Documents(D3) - Data-Driven Documents (D3 for short) is a JavaScript library that adds interactive functionality, such as when users click a button to filter a table. It works by "listening" for events, such as a button click, then reacts according to the code we've created. Dana thinks that she would like to filter by date, so she'll add code to create a date filter.
+5. Data Driven Documents(D3) - Data-Driven Documents (D3 for short) is a JavaScript library that adds interactive functionality, such as when users click a button to filter a table. It works by "listening" for events, such as a button click, then reacts according to the code we've created. Dana thinks that she would like to filter by date, so she'll add code to create a date filter. We'll use a popular library, D3.js, to equip our website to "listen" for events, such as a user clicking a button. In our code, we're going to use D3 to handle an action from a user, such as a button click. This means that we'll add an actual button to our HTML page to filter the table. When the button is clicked, D3 will detect the click and react accordingly. Building out user-driven data visualizations is an essential part of the data visualization job.
 
 
 ## Procedure :
