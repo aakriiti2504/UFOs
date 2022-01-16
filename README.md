@@ -15,9 +15,6 @@ Data is a data journalist who is at a point in her career where she has the free
 
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape. Her plan is to first use JS to display the datas of the table. Because there is so much data, sifting through without any adjustments would be a big challenge. JS provides a way to manipulate data by adding filters. Its tricky to add more than 1 filter but Dana is upto the challenge. Additionally, since I will be posting her article online, Dana wants to put everything together in a tidy HTML page. Her article, the table of data to support the findings and easy to use filters to fine tune the results. Dana is looking forward to see her ideas come alive. Hence I will be helping her with her goals.
  
-The final webpage can be accessed at the following link :
-
-
 ### Goal :
 
 Dana's goal is to create an interactive webpage that allows readers to parse the data around UFO sightings. So, she essentially needs to build two things: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript). Dana wants to storyboard her website to have an idea of what her readers will see when they view the final product. Storyboarding is incredibly useful in determining the layout of a webpage.
@@ -157,3 +154,8 @@ However, there is scope for improvement like any other project. One of the major
 
 
 5. A clear button to clear all the contents of the last performed search would be a nice addition to the webpage.
+
+
+### References :
+1. www.nasa.org
+2. https://courses.bootcampspot.com/courses/
