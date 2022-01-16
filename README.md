@@ -16,7 +16,7 @@ about her hometown McMinnvillem Oregon, she jumps on the opportunity for a coupl
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape. Her plan is to first use JS to display the datas of the table. Because there is so much data, sifting through without any adjustments would be a big challenge. JS provides a way to manipulate data by adding filters. Its tricky to add more than 1 filter but Dana is upto the challenge. Additionally, since I will be posting her article online, Dana wants to put everything together in a tidy HTML page. Her article, the table of data to support the findings and easy to use filters to fine tune the results. Dana is looking forward to see her ideas come alive. Hence I will be helping her with her goals.
  
 The final webpage can be accessed at the following link :
-[UFO sightings](https://github.com/aakriiti2504/UFOs/blob/main/index.html)
+[UFO sightings](index.html)
 
 ### Goal :
 
