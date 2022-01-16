@@ -16,7 +16,7 @@ Data is a data journalist who is at a point in her career where she has the free
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape. Her plan is to first use JS to display the datas of the table. Because there is so much data, sifting through without any adjustments would be a big challenge. JS provides a way to manipulate data by adding filters. Its tricky to add more than 1 filter but Dana is upto the challenge. Additionally, since I will be posting her article online, Dana wants to put everything together in a tidy HTML page. Her article, the table of data to support the findings and easy to use filters to fine tune the results. Dana is looking forward to see her ideas come alive. Hence I will be helping her with her goals.
  
 The final webpage can be accessed at the following link :
-[UFO sightings](index.html)
+
 
 ### Goal :
 
@@ -86,6 +86,21 @@ The next subfolder we'll create is our "static" folder to hold whatever images w
 
 The third and final subfolder we'll create is one to hold our JavaScript. Name the folder "js" and move the data.js and app.jsfiles into it.
 Establishing this folder structure is a best practice when creating webpages with JavaScript. It's important to keep things organized when creating a webpage using JavaScript components, as there are even more moving pieces than a static website. We'll be linking to images and a style sheet as well as JavaScript scripts. The organization presented here provides clearly designated spots to store the code we'll be working on, making it easier to locate them as we go.
+
+## Code :
+
+### 1. HTML code :
+![html1](https://user-images.githubusercontent.com/23488019/149681972-a75f5c1a-d60f-448c-990a-5989bc7b6e49.PNG)
+![html 2](https://user-images.githubusercontent.com/23488019/149681977-fc9e9eb2-3478-41bf-8ee0-c8563518b830.PNG)
+
+
+### 2. Javascript code :
+![app1](https://user-images.githubusercontent.com/23488019/149681990-262f9f58-e92c-4438-8429-67e3c7039d5a.PNG)
+![app2](https://user-images.githubusercontent.com/23488019/149681991-3a2614a3-fd61-4edf-854d-155e73988f04.PNG)
+
+
+### 3. CSS code :
+![css](https://user-images.githubusercontent.com/23488019/149682002-cb932c31-eaa0-47fc-83aa-c70f519fa015.PNG)
 
 
 ## Results : 
