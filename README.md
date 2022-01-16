@@ -29,6 +29,9 @@ This new assignment consists of one technical analysis deliverable and a written
 - Deliverable 1: Filter UFO sightings on multiple criteria
 - Deliverable 2: A written report on the UFO analysis (README.md)
 
+![original](https://user-images.githubusercontent.com/23488019/149681373-9c3b9825-e541-465b-92f1-c41377e9e6c7.PNG)
+
+
 ### Tools Used :
   1. JavaScript - It is a well-established coding language that was designed to enhance HTML. It's the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.
 
@@ -92,11 +95,39 @@ Establishing this folder structure is a best practice when creating webpages wit
 
 
 ## Results : 
+After running the HTML file it can be noted that we have a beautified webpage displaying details of the UFO sightings. The left corner has a set of criterias that can be used to search the desired data for specific locations, date or shape. The webpage provides a number of combination of searches that can be done using the given criterias. 
+
+![1](https://user-images.githubusercontent.com/23488019/149681255-5627062a-e5be-4ecc-9f1f-181ac6be3592.PNG)
+
+The criteria that can be filtered for include the following:
+
+- Date
+- City
+- State
+- Country
+- Shape
 
 
 ### How to perform a Search - 
+Performing a search on this webpage is fairly simple. 
+
+##### Step 1 : 
+There are 5 different criterias such as Date, city, state, country and shape is given in the left corner of the webpage. The desired search criterias need to be entered in the given text boxes. If any criteria is not being used, such criterias need to be left blank.
+
+![search](https://user-images.githubusercontent.com/23488019/149681275-bd37b88c-e0f1-46d3-a233-be69c7835912.PNG)
 
 
+##### Step 2 : 
+Press the enter key after entering the desired criterias for search. After hitting enter, the results are displayed in the adjacent section. If the data is not found, a blank table with blank rows is displayed.
+
+![oregon](https://user-images.githubusercontent.com/23488019/149681290-390973ce-13ce-48d0-8170-7d9bf2ab95e9.PNG)
+
+
+##### Multiple criteria search:
+
+More than 1 criterias can also be used to display the data. For that, the fields that need to be considered, need to be populated and enter button is pressed on the keyboard. Corresponding data can be easily seen on the right side of the search container.
+
+![multiple search](https://user-images.githubusercontent.com/23488019/149681455-68c3ebab-ff51-4524-9cef-a257d1bf0541.PNG)
 
 ## Summary :
 
@@ -112,3 +143,8 @@ However, there is scope for improvement like any other project. One of the major
 2. Another recommendation can be the addition of a Filter button at the bottom of all the search fields. User can enter multiple search criteria values and click on the filter button to get the desired search results, in contrast to individually pressing enter after entering each criteria value. This will provide a more aesthetically sound webpage too.
 
 3. A sorting feature can be a great addition to the website. When dealing with a large database, it is always a good practice to have sorting capability. The user will then get the flexibility to sort the desired results in ascending or descending order of occurence. The list can show the latest occurences on the top and the previous occurences in that order of preference.
+
+4. A download button can be added so that the user can download the searched results table in a pdf.
+
+
+5. A clear button to clear all the contents of the last performed search would be a nice addition to the webpage.
